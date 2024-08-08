@@ -1,6 +1,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/koalas_draw/)
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://https://natykoala.netlify.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://natykoala.netlify.app)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natasha-angi/)
 
@@ -30,4 +30,3 @@
 ## Minhas contribuições
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Natasha-Angi&repo=Natasha-Angi/dio-lab-open-sourcee&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Natasha-Angi/dio-lab-open-source)
-
